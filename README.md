@@ -1,4 +1,4 @@
-#Hello🙏
+Hello🙏
 I'm Aarav Arya, studying in 8th grade in DPS, Navi Mumbai. 
 I have been taking Coding Classes since last week of July.
 This is my most recent and the most favourite game I've coded till now.
